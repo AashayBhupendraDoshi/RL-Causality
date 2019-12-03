@@ -1,7 +1,7 @@
 I aim to review and understand how causal inference can be helpful in making reinforcement learning better. I think causality can make RL more sample efficient, make it interpretable and broaden its range of applications.
 
 # Papers at the Intersection of Reinforcement Learning and Causal Inference
-
+* [Causal Discovery with Reinforcement Lerning](https://arxiv.org/abs/1906.04477), Under Review, *ICLR*, 2020.
 * [Woulda, Coulda, Shoulda: Counterfactually-Guided Policy Search](https://openreview.net/forum?id=BJG0voC9YQ), Under Review, *ICLR*, 2019.
 * [Causal Reasoning from Meta-Reinforcement Learning](https://openreview.net/forum?id=H1ltQ3R9KQ), Under Review, *ICLR*, 2019.
 * [Discovering Latent Causes in Reinforcement Learning](https://www.princeton.edu/~nivlab/papers/GershmanNormanNiv2015.pdf), Gershman et al., *Behavioral Sciences*, 2015.
